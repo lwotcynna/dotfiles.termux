@@ -1,0 +1,9 @@
+{ "date": "Tue May 18 22:27:40 UTC 2021" },
+{
+  "health": "GOOD",
+  "percentage": 95,
+  "plugged": "UNPLUGGED",
+  "status": "DISCHARGING",
+  "temperature": 34.0,
+  "current": -200800
+}

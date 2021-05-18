@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+28d79e19f1e3e40c82f4a20052e3882847c5399d refs/remotes/origin/add-prefix-key-and-pane-sync-indicators
+7c59902f64dcd7ea356e891274b21144d1ea5948 refs/remotes/origin/master
+9ab1592766e6e0099b6888ba8cc01175c254669f refs/tags/1.0.0
+7fc71ae7878a48a23b27b1a495644294493ad7e4 refs/tags/1.0.1
+bb24b3981f4d4722dd647900583b82659206e305 refs/tags/1.1.0

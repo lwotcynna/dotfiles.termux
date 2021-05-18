@@ -1,0 +1,11 @@
+#!/data/data/com.termux/files/usr/bin/env bash
+red="\e[91m"
+grn="\e[92m"
+ylw="\e[93m"
+blue="\e[94m"
+mgnta="\e[95m"
+cyn="\e[96m"
+wht="\e[97m"
+rst="\e[0m"
+bld="\e[1m"
+uln="\e[4m"
